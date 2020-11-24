@@ -8,6 +8,6 @@ public class PartoneController {
 
 	@RequestMapping("/hello")
     public String hello() {
-        return "Hello World RESTful with Spring Boot Application Prangya";
+        return "Hello World RESTful with Spring Boot Application Prangya Hello";
     } 
 }
